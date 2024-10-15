@@ -1,4 +1,4 @@
-![test workflow](https://github.com/Turupawn/AaveLenderDemo/actions/workflows/test.yml/badge.svg)
+![test workflow](./actions/workflows/test.yml/badge.svg)
 
 # Aave Lender Demo
 
